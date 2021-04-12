@@ -9,7 +9,6 @@ h1 {
     margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
-    /* color:#1ad3ec ; */
     color:#fbaccc;
 
 
@@ -95,14 +94,14 @@ hr {
 
 .top-cloud {
     position: absolute;
-    width: 200px;
+    width: 15%;
     right: 220px;
     top: 80px;
 }
 
 .bottom-cloud {
     position: absolute;
-    width: 200px;
+    width: 15%;
     left: 200px;
     top:250px;
 
@@ -110,6 +109,7 @@ hr {
 }
 .top-programmer {
     position: static;
+    padding: 70px 0;
 
 }
 
@@ -179,6 +179,7 @@ hr {
 }
 .top-programmer{
     margin:-100px auto 100px auto;
+    width:70%;
 
 }
 
@@ -189,12 +190,12 @@ hr {
     background-image: -ms-linear-gradient(top, #e887b1, #fcb0d0);
     background-image: -o-linear-gradient(top, #e887b1, #fcb0d0);
     background-image: linear-gradient(to bottom, #e887b1, #fcb0d0);
-    -webkit-border-radius: 10;
-    -moz-border-radius: 10;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
     border-radius: 10px;
     font-family: 'Montserrat', sans-serif;
     color: #f8eaea;
-    font-size: 18px;
+    font-size: 90%;
     padding: 10px 15px 10px 15px;
     text-decoration:none;
   }
